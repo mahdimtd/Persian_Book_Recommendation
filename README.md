@@ -23,13 +23,7 @@ readers discover new books that closely match their interests or the topics they
 ## How to Run the Project
 
 1. Clone the Repository
-First, clone the repository to your local machine:
-
-bash
-Copy
-Edit
-git clone https://github.com/mahdimtd/Persian_Book_Recommendation.git
-cd Persian_Book_Recommendation
+First, clone the repository to your local machine
 
 2. Set Up a Virtual Environment (Optional but Recommended)
 It's advisable to use a virtual environment to manage dependencies:
